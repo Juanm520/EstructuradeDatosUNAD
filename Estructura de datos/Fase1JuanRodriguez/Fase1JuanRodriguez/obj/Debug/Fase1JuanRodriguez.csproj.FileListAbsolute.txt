@@ -1,0 +1,13 @@
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\bin\Debug\Fase1JuanRodriguez.exe.config
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\bin\Debug\Fase1JuanRodriguez.exe
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\bin\Debug\Fase1JuanRodriguez.pdb
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.csproj.AssemblyReference.cache
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.Login.resources
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.Registro.resources
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.Properties.Resources.resources
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.csproj.GenerateResource.cache
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.csproj.CoreCompileInputs.cache
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.exe
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.pdb
+C:\Users\juanm\source\repos\Fase1JuanRodriguez\Fase1JuanRodriguez\obj\Debug\Fase1JuanRodriguez.Reporte.resources
